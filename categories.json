@@ -1,0 +1,5 @@
+[
+  {"id": "dev", "name": "Development", "file": "packages_dev.txt", "desc": "IDE, dev tools, databases, containers"},
+  {"id": "local", "name": "Local", "file": "packages_local.txt", "desc": "Games, media, utilities, drivers"},
+  {"id": "vm", "name": "VM", "file": "packages_vm.txt", "desc": "Drivers and utilities for virtualization"}
+]
